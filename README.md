@@ -1,8 +1,7 @@
-# Todo App
+# To do App
 
-Proyecto del primer modulo de la fase 2. 
 
-Lista ordenadamente cada tarea que ingresa el usuario, las operaciones que se pueden realizar son agregar, eliminar y marcar tareas ademas de marcar las completadas.
+Lista que ordena cada tarea que ingresa el usuario, las operaciones que se pueden realizar son agregar, eliminar y marcar tareas ademas de marcar las completadas.
 
 ---
 ## Temas abordados de Javascript
@@ -15,12 +14,6 @@ Lista ordenadamente cada tarea que ingresa el usuario, las operaciones que se pu
 
 ![Imagen de la aplicacion](./img/todoapp.jpg)
 
----
-## Contributors
-* PaulinaQuintero
-* GuillermoGAndres 
-* alejandro28100
-* pauvquinterom
 
 
 
